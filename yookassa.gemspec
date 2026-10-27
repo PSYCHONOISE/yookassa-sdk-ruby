@@ -8,7 +8,7 @@ require 'yookassa/version'
 Gem::Specification.new do |spec|
   spec.name          = 'yookassa'
   spec.version       = YooKassa::VERSION
-  spec.authors       = ['YooMoney', 'PSYCHONOISE']
+  spec.authors       = %w[YooMoney PSYCHONOISE]
   spec.email         = ['cms@yoomoney.ru']
 
   spec.summary       = 'YooKassa API Ruby Client Library'
